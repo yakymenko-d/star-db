@@ -1,0 +1,14 @@
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+*.iml
+
+.idea/
+
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
