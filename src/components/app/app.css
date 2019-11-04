@@ -1,0 +1,17 @@
+.button-row {
+  margin: 0 0 30px 0;
+}
+
+.button-row button {
+  margin-right: 1rem;
+}
+
+.stardb-app .row {
+  margin-bottom: 1rem;
+}
+
+@media (max-width: 414px) {
+    .button-row button:last-child {
+        margin-top: 20px;
+      }
+}
